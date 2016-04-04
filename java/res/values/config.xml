@@ -26,19 +26,19 @@
 
     <!-- Preferable keyboard height in absolute scale: 1.285in -->
     <!-- This config_default_keyboard_height value should match with keyboard-heights.xml -->
-    <dimen name="config_default_keyboard_height">205.6dp</dimen>
-    <fraction name="config_max_keyboard_height">46%p</fraction>
-    <fraction name="config_min_keyboard_height">-61.8%p</fraction>
+    <dimen name="config_default_keyboard_height">170.6dp</dimen>
+    <fraction name="config_max_keyboard_height">43.5%p</fraction>
+    <fraction name="config_min_keyboard_height">-60.8%p</fraction>
 
     <dimen name="config_more_keys_keyboard_key_height">52.8dp</dimen>
     <!-- Amount of allowance for selecting keys in a mini popup keyboard by sliding finger. -->
     <!-- config_more_keys_keyboard_key_height x 1.2 -->
-    <dimen name="config_more_keys_keyboard_slide_allowance">63.36dp</dimen>
-    <dimen name="config_more_keys_keyboard_key_horizontal_padding">8dp</dimen>
+    <dimen name="config_more_keys_keyboard_slide_allowance">58.36dp</dimen>
+    <dimen name="config_more_keys_keyboard_key_horizontal_padding">6dp</dimen>
 
     <fraction name="config_keyboard_top_padding_holo">2.335%p</fraction>
-    <fraction name="config_keyboard_bottom_padding_holo">4.669%p</fraction>
-    <fraction name="config_key_vertical_gap_holo">6.127%p</fraction>
+    <fraction name="config_keyboard_bottom_padding_holo">2.669%p</fraction>
+    <fraction name="config_key_vertical_gap_holo">3.127%p</fraction>
     <fraction name="config_key_horizontal_gap_holo">1.739%p</fraction>
     <!-- config_more_keys_keyboard_key_height x -0.5 -->
     <dimen name="config_more_keys_keyboard_vertical_correction_holo">-26.4dp</dimen>
@@ -68,10 +68,10 @@
     <fraction name="config_key_letter_ratio_5row">55%</fraction>
     <fraction name="config_key_shifted_letter_hint_ratio_5row">41%</fraction>
 
-    <dimen name="config_suggestions_strip_height">40dp</dimen>
+    <dimen name="config_suggestions_strip_height">34dp</dimen>
     <dimen name="config_suggestions_strip_horizontal_margin">36dp</dimen>
     <dimen name="config_suggestions_strip_edge_key_width">36dp</dimen>
-    <dimen name="config_more_suggestions_row_height">40dp</dimen>
+    <dimen name="config_more_suggestions_row_height">34dp</dimen>
     <integer name="config_max_more_suggestions_row">6</integer>
     <fraction name="config_min_more_suggestions_width">90%</fraction>
     <dimen name="config_suggestion_min_width">44dp</dimen>
