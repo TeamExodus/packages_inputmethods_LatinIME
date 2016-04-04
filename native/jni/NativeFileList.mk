@@ -121,26 +121,3 @@ LATIN_IME_CORE_SRC_FILES_BACKWARD_V402 := \
         ver4_bigram_list_policy.cpp)
 
 LATIN_IME_CORE_SRC_FILES += $(LATIN_IME_CORE_SRC_FILES_BACKWARD_V402)
-
-LATIN_IME_CORE_TEST_FILES := \
-    defines_test.cpp \
-    dictionary/header/header_read_write_utils_test.cpp \
-    dictionary/structure/v4/content/language_model_dict_content_test.cpp \
-    dictionary/structure/v4/content/language_model_dict_content_global_counters_test.cpp \
-    dictionary/structure/v4/content/probability_entry_test.cpp \
-    dictionary/structure/v4/content/terminal_position_lookup_table_test.cpp \
-    dictionary/utils/bloom_filter_test.cpp \
-    dictionary/utils/buffer_with_extendable_buffer_test.cpp \
-    dictionary/utils/byte_array_utils_test.cpp \
-    dictionary/utils/format_utils_test.cpp \
-    dictionary/utils/probability_utils_test.cpp \
-    dictionary/utils/sparse_table_test.cpp \
-    dictionary/utils/trie_map_test.cpp \
-    suggest/core/dicnode/dic_node_pool_test.cpp \
-    suggest/core/layout/geometry_utils_test.cpp \
-    suggest/core/layout/normal_distribution_2d_test.cpp \
-    suggest/policyimpl/utils/damerau_levenshtein_edit_distance_policy_test.cpp \
-    utils/autocorrection_threshold_utils_test.cpp \
-    utils/char_utils_test.cpp \
-    utils/int_array_view_test.cpp \
-    utils/time_keeper_test.cpp
