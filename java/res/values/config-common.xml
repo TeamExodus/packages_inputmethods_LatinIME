@@ -125,8 +125,8 @@
     <dimen name="config_gesture_trail_max_interpolation_distance_threshold">16.0dp</dimen>
     <!-- Maximum number of gesture trail interpolation segments. -->
     <integer name="config_gesture_trail_max_interpolation_segments">6</integer>
-    <dimen name="config_gesture_trail_start_width">10.0dp</dimen>
-    <dimen name="config_gesture_trail_end_width">2.5dp</dimen>
+    <dimen name="config_gesture_trail_start_width">8.0dp</dimen>
+    <dimen name="config_gesture_trail_end_width">2.0dp</dimen>
     <!-- Percentages of gesture preview taril body and shadow, in proportion to the trail width.
          A negative value of the shadow ratio disables drawing shadow. -->
     <!-- TODO: May use the shadow to alleviate rugged trail drawing. -->
