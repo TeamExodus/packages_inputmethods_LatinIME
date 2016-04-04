@@ -28,16 +28,16 @@
     <integer name="config_double_space_period_timeout">1100</integer>
 
     <integer name="config_key_repeat_start_timeout">400</integer>
-    <integer name="config_key_repeat_interval">50</integer>
+    <integer name="config_key_repeat_interval">30</integer>
 
-    <integer name="config_ignore_alt_code_key_timeout">350</integer>
+    <integer name="config_ignore_alt_code_key_timeout">325</integer>
 
     <integer name="config_key_preview_show_up_duration">17</integer>
     <integer name="config_key_preview_dismiss_duration">53</integer>
     <fraction name="config_key_preview_show_up_start_scale">98%</fraction>
     <fraction name="config_key_preview_dismiss_end_scale">94%</fraction>
     <!-- TODO: consolidate key preview linger timeout with the above animation parameters. -->
-    <integer name="config_key_preview_linger_timeout">70</integer>
+    <integer name="config_key_preview_linger_timeout">50</integer>
     <!-- Suppress showing key preview duration after batch input in millisecond -->
     <integer name="config_suppress_key_preview_after_batch_input_duration">1000</integer>
 
